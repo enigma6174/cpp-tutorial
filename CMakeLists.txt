@@ -8,3 +8,5 @@ add_executable(intro basics/intro.cpp)
 add_executable(namespace basics/namespace.cpp)
 
 add_executable(variables basics/variables.cpp)
+
+add_executable(primitive_types basics/primitive_types.cpp)
